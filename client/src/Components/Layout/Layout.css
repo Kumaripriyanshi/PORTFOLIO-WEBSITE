@@ -1,0 +1,82 @@
+.layout-nav{
+    
+    /* border: 2px solid red; */
+    background-image: linear-gradient(to right, rgb(31 3 3), rgb(34 72 84));
+    height: 100vh;
+    width: 18%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    transition: all 1s;
+   position: fixed;
+   box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+   /* z-index: 1; */
+   /* border: 2px solid green; */
+  
+}
+
+.open-close-btn{
+    align-self: flex-end;
+    
+}
+
+
+
+.image-div img{
+    max-width: 100%;
+    border-radius: 80px;
+    /* height: 8px; */
+
+}
+
+.image-div{
+    max-width: 164px;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 30px 60px -12px, rgba(0, 0, 0, 0.3) 0px 18px 36px -18px;
+}
+
+.toggle-nav{
+    width: 8%;
+    transition: 0.6s;
+}
+
+.open-close-btn svg:hover{
+    cursor: pointer;
+}
+
+.menus-div ul li{
+    text-decoration: none;
+    list-style: none;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 13px 27px -5px, rgba(0, 0, 0, 0.3) 0px 8px 16px -8px;
+}
+
+.link svg{
+    margin-right: 10px;
+
+   
+}
+li{
+    margin-bottom: 20px;
+    color: red;
+}
+
+.link{
+    color: rgb(216 215 230);
+    font-family: 'Acme', sans-serif;
+}
+
+.link:link { /* Essentially means a[href], or that the link actually goes somewhere */
+    color: blue;
+  }
+  .link:visited {
+    color: purple;
+  }
+  .link:hover {
+    color: green;
+    padding-left: 6px;
+    border-left: 3px solid yellow;
+    cursor: pointer;
+    vertical-align: middle;
+  }
+  .link:active {
+    color: red;
+  }

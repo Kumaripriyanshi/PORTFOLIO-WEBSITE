@@ -1,0 +1,43 @@
+.techicalSkill{
+    /* width: 81.6%; */
+    /* margin-left: 277px; */
+    /* padding: 19px; */
+    min-height: 500px;
+    /* margin-top: 37px; */
+    padding-bottom: 36px;
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 10px 36px 0px, rgba(0, 0, 0, 0.06) 0px 0px 0px 1px;
+
+    /* margin-top: 8%; */
+    /* background-color: aqua; */
+}
+
+.margin-pr{
+    /* background-color: blanchedalmond; */
+   
+}
+
+.h{
+    /* background-color: blue; */
+    line-height: 18.2;
+}
+
+
+.skills span{
+border: 2px solid grey;
+margin: 6px;
+/* height: 23px; */
+width: 56px;
+padding: 9px;
+}
+
+.skills span svg{
+    size: 56px;
+}
+
+.carousel-img-div img{
+    height: 355px;
+    width: 100%;
+}
+.slick-dots li{
+    background-color: black;
+}

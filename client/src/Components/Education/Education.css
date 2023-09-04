@@ -1,0 +1,26 @@
+.education-section{
+    min-height: 400px;
+    /* margin-top: 37px; */
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 10px 36px 0px, rgba(0, 0, 0, 0.06) 0px 0px 0px 1px;
+    z-index: -1 !important;
+    padding-bottom: 36px;
+  
+
+}
+
+.vertical-timeline-element-date{
+    color: black !important;
+}
+
+/* .bounce-in{
+    background-color: rgb(58 91 118) !important;
+}
+ */
+/* 
+.vertical-timeline-element-content-arrow{
+    border-right: 7px solid rgb(58 91 118) !important;
+} */
+
+.vertical-timeline::before {
+  
+    background: #8f2e2e !important;}

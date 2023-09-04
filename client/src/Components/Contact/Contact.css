@@ -1,0 +1,69 @@
+.contact-me img{
+    width: 100%;
+    height: 100%;
+}
+
+.form-inputs input{
+    height: 16%;
+    /* border: none; */
+    border-radius: 5px;
+    outline: none;
+}
+
+.form-inputs textarea{
+    height: 33%;
+}
+.form-inputs input :focus{
+    border-bottom: 1px solid black;
+}
+
+.heading{
+    color: #132f69;
+}
+
+.contact-div{
+    /* margin-top: 37px; */
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 10px 36px 0px, rgba(0, 0, 0, 0.06) 0px 0px 0px 1px;
+    padding-bottom: 36px;
+    /* background-color: aliceblue; */
+}
+
+::placeholder {
+    color: #bdbdbd;
+    opacity: 1;
+    font-weight: 300;
+  }
+  
+  input,
+  textarea {
+    padding: 10px 12px;
+    border: 1px solid lightgray;
+    border-radius: 2px;
+    margin-top: 5px;
+    margin-top: 2px;
+    width: 100%;
+    color: #138781;
+    font-size: 1rem;
+    letter-spacing: 1px;
+  }
+  
+  input:focus,
+  textarea:focus {
+    box-shadow: none !important;
+    outline: 1px solid #138781 !important;
+    outline-width: 0px;
+  }
+
+  .send-btn{
+    width: 50%;
+   
+    align-self: center;
+    height: 13%;
+    border: none;
+    border-radius: 20px;
+    
+    background: linear-gradient(135deg, rgba(2,0,36,1) 0%, rgba(37,110,10,1) 26%, rgba(0,212,255,1) 100%);
+    color: ghostwhite;
+    font-weight: bold;
+    font-family: 'Acme', sans-serif;
+  }

@@ -1,0 +1,33 @@
+.about-div{
+    min-height: 500px;
+    /* margin-top: 37px; */
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    padding-bottom: 36px;
+    /* background-color: azure; */
+   
+}
+.heading{
+    margin: auto;
+    display: block;
+    width: fit-content;
+    font-family: 'Acme', sans-serif;
+    color: #132f69;
+    
+
+    /* color: white !important; */
+}
+
+p{
+    /* color: white; */
+    text-align: justify;
+    /* font-family: 'Acme', sans-serif; */
+    font-family: 'Lobster Two', cursive;
+    color: black;
+
+}
+
+.my-picture img{
+    max-width: 95%;
+    border-radius: 26px;
+}
+
