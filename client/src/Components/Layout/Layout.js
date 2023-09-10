@@ -7,7 +7,6 @@ import { NavLink } from "react-router-dom";
 import { useToggle } from "../Context/NavToggleContext";
 import { Link } from "react-scroll";
 import { RxHamburgerMenu } from "react-icons/rx";
-import me from "../assets/me.jfif";
 import Zoom from "react-reveal/Zoom";
 
 const Layout = () => {
