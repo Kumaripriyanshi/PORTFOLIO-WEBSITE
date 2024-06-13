@@ -1,6 +1,6 @@
 ## Description
 
-Welcome to my portfolio website. This is an template how to showcase your skills, projects, and achievements in an website version rather than PDF. Here you will find information about the work I have done and the technologies I have used for making this project .
+Welcome to my portfolio website. This is a template showcasing how to present your skills, projects, and achievements in a web format rather than a traditional PDF. Here, you will find information about the work I have done and the technologies I have used to build this project.
 
 ## Table of Contents
 
@@ -31,8 +31,6 @@ To set up the project locally:
 
 Technologies Used
 Frontend: HTML, CSS, JavaScript, React
-Backend: Node.js, Express
-Database: MongoDB
 Version Control: Git, GitHub
 
 ## Screenshots
